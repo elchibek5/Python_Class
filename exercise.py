@@ -1,0 +1,4 @@
+print('error')
+
+# error
+# 'error'
